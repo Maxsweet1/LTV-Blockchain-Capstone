@@ -1,5 +1,6 @@
 SnackClubNFT
-SnackClubNFT is a blockchain-based contract that utilizes the Ethereum network to offer tiered membership NFTs, leveraging the ERC1155 standard for multi-token management. This contract allows members to mint NFTs corresponding to different membership tiers, each with its own price and benefits.
+SnackClubNFT is a blockchain-based contract that utilizes the Ethereum network to offer tiered membership NFTs, leveraging the ERC1155 standard for multi-token management. 
+This contract allows members to mint NFTs corresponding to different membership tiers, each with its own price and benefits.
 
 Key Features
 Multi-Tier Membership: 
